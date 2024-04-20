@@ -1,0 +1,48 @@
+Feature Description:
+ 
+Student Role Features:
+
+1. View Personal Attendance Records: Easily access and review attendance records for each enrolled course, providing transparency and insight into attendance performance.
+
+2. View Grades and Marks: Access detailed information on grades and marks for assignments, quizzes, exams, and projects, empowering students to track their academic progress effectively.
+
+3. Update/View Personal Details: Maintain accurate personal information and conveniently update it as needed, ensuring that student profiles remain current and relevant.
+
+4. Enroll Course: Enroll courses offered by admin from the list of unerolled courses.
+
+Faculty Role Features:
+
+1. Attendance Management: Seamlessly take attendance for each class session and efficiently manage attendance records for all students within their assigned courses.
+
+2. Grade Management: Grade assignments, quizzes, exams, and projects with ease, providing timely and accurate feedback to students to support their learning journey.
+
+3. Student List Access: Access a comprehensive list of enrolled students, facilitating effective communication and interaction within the academic environment.
+
+Admin Role Features:
+
+1. Attendance and Grade Reports:** Generate and review comprehensive attendance reports and grade records for all courses, students, and faculty members, facilitating data-driven decision-making and performance evaluation.
+
+2. Course Catalog Management:** Manage the course catalog efficiently by adding, removing, or editing courses as necessary, ensuring that the curriculum remains up-to-date and relevant.
+
+3. Instructor Assignment:** Assign instructors to courses and manage their schedules effectively, optimizing faculty resources and ensuring appropriate course coverage.
+
+4. User Account Management:** Maintain user accounts and permissions securely, overseeing access rights for faculty, admin, and students to safeguard sensitive information and maintain system integrity.
+
+General Requirements:
+
+1. Login and Logout Functionality: Implement secure login and logout functionality to protect user accounts and ensure data privacy.
+
+2. Signup with Profile Picture: Enable users to create accounts with profile pictures, enhancing personalization and user engagement within the system.
+
+3. Dynamic Menu: Provide a dynamic menu interface that adapts to user roles and permissions, ensuring intuitive navigation and accessibility to relevant features.
+
+4. Single Dashboard: Offer a centralized dashboard for all users, providing a comprehensive overview of relevant information and functionalities tailored to their respective roles.
+
+5. Proper Authorization Checks: Implement robust authorization checks for every role on every page, ensuring that users can only access features and data appropriate to their permissions.
+
+6. Responsive Design: Develop a responsive design that caters to all screen sizes, including extra-small (xs) devices, to ensure optimal user experience across desktop and mobile platforms.
+
+7. PHP/MySQLi Implementation: Utilize PHP and MySQLi for backend development, ensuring efficient data processing, storage, and retrieval in compliance with industry standards and best practices.
+
+---
+
